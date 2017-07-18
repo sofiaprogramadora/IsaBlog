@@ -1,0 +1,26 @@
+.i{
+	width:50px;
+	height: 95%;
+	float: left;
+}
+
+.nav_bar{
+	width:100%;
+	height:40px;
+}
+.b{
+	margin: 44px;
+	margin-top: 10px;
+	background-color: #FFC336;
+	border-radius: 60px;
+	color: #FF0036;
+	border-color: #FF0036;
+}
+.main_text{
+	padding:100px;
+	padding-top: 30px;
+	text-align: center;
+}
+body{
+	background-image: url('https://s-media-cache-ak0.pinimg.com/originals/21/ae/9a/21ae9a96499c2455e1918a9e8ed2caa6.jpg');
+}
